@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "TESLA";
+  src: local("TESLA"), url("./fonts/TESLA.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: "TESLA";
+}
